@@ -31,7 +31,7 @@ Internet of things, and embdedded systems.
 - Python · Selenium · Pytest · Git with jenkins · GitHub Actions
 
 ##  Projects
-- 🔹 [Booking Automation Test]() – End-to-end test automation with Selenium & HTML reports
+- 🔹 [Booking Automation Test](https://github.com/Santi-MEng/Booking-Automation) – End-to-end test automation with Selenium & HTML reports
 - 🔹 [API Testing Suite] in process...
 ## Reach me at:
 [LinkedIn](www.linkedin.com/in/santiago-guadalupe-carranza-solorio-863340219) · [Email](sgcs051998@gmail.com)
