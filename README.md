@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Santiago!
 
-I'm a Mechatronic Engineer with  some experience in Selenium, API Testing, and Python Automation.  
+I'm a Mechatronic Engineer with experience in Selenium, API Testing, and Python Automation.  
 Currently building projects to deepen my expertise in test automation and CI/CD workflows.
-I'm currently working in automotive industries, and developing a big interest in Automation Testing,
+I work in automotive industries, and I am developing a big interest in Automation Testing,
 Internet of things, and embdedded systems.
 
 ## 🌱 I’m currently learning:
