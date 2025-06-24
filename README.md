@@ -16,7 +16,7 @@ Internet of things, and embdedded systems.
 
 ##  Projects
 - 🔹 [Booking Automation Test](https://github.com/Santi-MEng/Booking-Automation) – End-to-end test automation with Selenium & HTML reports
-- 🔹 [Simulation sensor system](https://github.com/Santi-MEng/Sensor-Simulator-Python) - Simulation sensor system that monitore temperature, gas and voltage plus GUI
+- 🔹 [Simulation sensor system](https://github.com/Santi-MEng/Sensor-Simulator-Python) - Simulation sensor system that monitors temperature, gas and voltage plus GUI
 - 🔹 [API Testing Suite] in process...
 
 ## Reach me at:
