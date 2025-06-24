@@ -16,7 +16,8 @@ Internet of things, and embdedded systems.
 
 ##  Projects
 - 🔹 [Booking Automation Test](https://github.com/Santi-MEng/Booking-Automation) – End-to-end test automation with Selenium & HTML reports
+- 🔹 [Simulation sensor system](https://github.com/Santi-MEng/Sensor-Simulator-Python) - Simulation sensor system that monitore temperature, gas and voltage plus GUI
 - 🔹 [API Testing Suite] in process...
-- 🔹  [Simulation sensor system](https://github.com/Santi-MEng/Sensor-Simulator-Python) - Simulation sensor system that monitore temperature, gas and voltage plus GUI
+
 ## Reach me at:
 Linkedin: www.linkedin.com/in/santiago-guadalupe-carranza-solorio-863340219 · Email: sgcs051998@gmail.com
